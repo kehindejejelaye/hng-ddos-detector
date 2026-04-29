@@ -179,7 +179,7 @@ All thresholds live in `detector/config.yaml` — nothing is hardcoded:
 ---
 
 ## Blog Post
-[Link to be added — publish on Hashnode/Dev.to and update here]
+[Your Server Is Under Attack. Here's How I Built Something That Fights Back.](https://kehindejejelaye.hashnode.dev/your-server-is-under-attack-here-s-how-i-built-something-that-fights-back)
 
 ---
 
